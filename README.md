@@ -1,1 +1,1 @@
-# GraphVoronoiDiagram
+# Graph-Voronoi-Diagram
